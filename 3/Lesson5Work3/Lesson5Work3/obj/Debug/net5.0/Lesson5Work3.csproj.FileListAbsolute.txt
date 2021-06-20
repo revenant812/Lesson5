@@ -1,0 +1,16 @@
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.exe
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.deps.json
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.runtimeconfig.json
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.dll
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\ref\Lesson5Work3.dll
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\bin\Debug\net5.0\Lesson5Work3.pdb
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.dll
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\ref\Lesson5Work3.dll
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.pdb
+C:\Users\Дима\Desktop\Lesson5\3\Lesson5Work3\Lesson5Work3\obj\Debug\net5.0\Lesson5Work3.genruntimeconfig.cache
